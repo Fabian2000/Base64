@@ -2,6 +2,8 @@
 
 This project provides a custom implementation of a Base64 encoder and decoder in C#. The code includes methods for encoding byte arrays to Base64 strings, decoding Base64 strings back to byte arrays, and validating Base64 strings.
 
+_INFO: The readme is AI generated. The code itself is selfmade ..._
+
 ## Features
 
 - **Custom Charset Dictionary**: Uses a `_charset` dictionary to map byte values to Base64 characters, presented in a table-like format for better readability.
